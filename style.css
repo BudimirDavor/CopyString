@@ -1,0 +1,14 @@
+input[type=text] 
+{
+    border: solid 2px black;
+}
+#content
+{
+	text-align: center;
+	padding: 100px;
+	background-color: orange;	
+}
+#field
+{
+	padding: 10px;
+}
